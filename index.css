@@ -1,0 +1,19 @@
+button{
+    background-color: green;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+#box{
+    width: 200px;
+    height: auto;
+    background-color: green;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
